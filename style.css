@@ -1,0 +1,26 @@
+h1 {
+    margin-bottom: 35px;
+    color: black;
+    text-decoration: overline underline;
+  }
+  body {
+    background-color: deepskyblue;
+  }
+  input {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 175px;
+    background-color: pink;
+    border: solid;
+    font-weight: bold;
+  }
+  hr {
+    margin: 15px
+  }
+  button {
+    color: #000000;
+    background-color: rgb(255, 255, 0);
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
